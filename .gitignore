@@ -1,0 +1,6 @@
+# Node.js / NPM
+node_modules/
+package-lock.json
+
+# React build output
+build/
